@@ -11,8 +11,8 @@ import requests
 import socket
 from threading import Thread
 
-bot = Bot(token="5159529265:AAF1LdOtGyXwto4WM_eMJYxzr5FXyHcKRuc")
-channel_id = '-1001783490331'
+bot = Bot(token="6372783424:AAHmN8RRRtoEQTnwUVUnOh4tB5jTYEsgilU")
+channel_id = '-4067852225'
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 
